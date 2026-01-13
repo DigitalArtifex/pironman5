@@ -22,7 +22,7 @@ dependencies = [
   'psutil',
   'adafruit-circuitpython-neopixel-spi',
   'Adafruit-Blinka==8.59.0',
-  'RPi.GPIO',
+  'rpi-lgpio',
 ]
 
 [project.scripts]
